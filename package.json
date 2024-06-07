@@ -1,4 +1,6 @@
 {
+  "name": "bsky-cats",
+  "author": "rmlzy@outlook.com",
   "scripts": {
     "start": "vercel dev",
     "deploy": "vercel"
